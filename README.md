@@ -55,8 +55,8 @@ The notebook generates the face-swap manipulated images and their corresponding 
 
 | Face swap | Segmentation Mask | Face Swap Image | Segmentation Mask |
 |:---:|:---:|:---:|:---:|
-| <img src="Deepfake%20Images/Images/12000.png" width="160"> | <img src="Deepfake%20Images/Masks/12000.png" width="160"> | <img src="Deepfake%20Images/Images/12018.png" width="160"> | <img src="Deepfake%20Images/Masks/12018.png" width="160"> |
-| <img src="Deepfake%20Images/Images/12011.png" width="160"> | <img src="Deepfake%20Images/Masks/12011.png" width="160"> | <img src="Deepfake%20Images/Images/12026.png" width="160"> | <img src="Deepfake%20Images/Masks/12026.png" width="160"> |
+| <img src="Faceswap/Images/12000.png" width="160"> | <img src="Faceswap/Masks/12000.png" width="160"> | <img src="Faceswap/Images/12011.png" width="160"> | <img src="Faceswap/Masks/12011.png" width="160"> |
+| <img src="Faceswap/Images/12018.png" width="160"> | <img src="Faceswap/Masks/12018.png" width="160"> | <img src="Faceswap/Images/12026.png" width="160"> | <img src="Faceswap/Masks/12026.png" width="160"> |
 
 ## 4. Generate deepfake manipulations
 
@@ -70,12 +70,16 @@ Or simply click: <a href="https://colab.research.google.com/github/rodare903009-
 
 Open Deepfake.ipynb in Google Colab
 
-The notebook generates the face-swap manipulated images and their corresponding pixel-level masks used in the SegDeep dataset.
+The notebook generates the Deepfake manipulated images and their corresponding pixel-level masks used in the SegDeep dataset.
 
-| Face swap | Segmentation Mask | Face Swap Image | Segmentation Mask |
+The following examples show generated deepfake images and their corresponding pixel-level segmentation masks.
+
+| Deepfake Image | Segmentation Mask | Deepfake Image | Segmentation Mask |
 |:---:|:---:|:---:|:---:|
-| <img src="Deepfake%20Images/Images/12000.png" width="160"> | <img src="Deepfake%20Images/Masks/12000.png" width="160"> | <img src="Deepfake%20Images/Images/12018.png" width="160"> | <img src="Deepfake%20Images/Masks/12018.png" width="160"> |
-| <img src="Deepfake%20Images/Images/12011.png" width="160"> | <img src="Deepfake%20Images/Masks/12011.png" width="160"> | <img src="Deepfake%20Images/Images/12026.png" width="160"> | <img src="Deepfake%20Images/Masks/12026.png" width="160"> |
+| <img src="Deepfake/Images/32000.png" width="160"> | <img src="Deepfake/Masks/32000.png" width="160"> | <img src="Deepfake/Images/32001.png" width="160"> | <img src="Deepfake/Masks/32001.png" width="160"> |
+| <img src="Deepfake/Images/32002.png" width="160"> | <img src="Deepfake/Masks/32002.png" width="160"> | <img src="Deepfake/Images/32003.png" width="160"> | <img src="Deepfake/Masks/32003.png" width="160"> |
+
+
 
 
 
