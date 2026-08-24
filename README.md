@@ -53,5 +53,35 @@ Open faceswap.ipynb in Google Colab
 
 The notebook generates the face-swap manipulated images and their corresponding pixel-level masks used in the SegDeep dataset.
 
+| Face swap | Segmentation Mask | Face Swap Image | Segmentation Mask |
+|:---:|:---:|:---:|:---:|
+| <img src="Deepfake%20Images/Images/12000.png" width="160"> | <img src="Deepfake%20Images/Masks/12000.png" width="160"> | <img src="Deepfake%20Images/Images/12018.png" width="160"> | <img src="Deepfake%20Images/Masks/12018.png" width="160"> |
+| <img src="Deepfake%20Images/Images/12011.png" width="160"> | <img src="Deepfake%20Images/Masks/12011.png" width="160"> | <img src="Deepfake%20Images/Images/12026.png" width="160"> | <img src="Deepfake%20Images/Masks/12026.png" width="160"> |
+
+## 4. Generate deepfake manipulations
+
+The deepfake generation process is provided as a Jupyter Notebook designed to run in Google Colab.
+
+Open directly in Google Colab: 
+
+Or simply click: <a href="https://colab.research.google.com/github/rodare903009-maker/SegDeep-Code/blob/main/Deepfake.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Open faceswap.ipynb in Google Colab
+
+The notebook generates the face-swap manipulated images and their corresponding pixel-level masks used in the SegDeep dataset.
+
+| Face swap | Segmentation Mask | Face Swap Image | Segmentation Mask |
+|:---:|:---:|:---:|:---:|
+| <img src="Deepfake%20Images/Images/12000.png" width="160"> | <img src="Deepfake%20Images/Masks/12000.png" width="160"> | <img src="Deepfake%20Images/Images/12018.png" width="160"> | <img src="Deepfake%20Images/Masks/12018.png" width="160"> |
+| <img src="Deepfake%20Images/Images/12011.png" width="160"> | <img src="Deepfake%20Images/Masks/12011.png" width="160"> | <img src="Deepfake%20Images/Images/12026.png" width="160"> | <img src="Deepfake%20Images/Masks/12026.png" width="160"> |
+
+
+
+
+
+
+
 
 
