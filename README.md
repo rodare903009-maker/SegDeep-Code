@@ -68,7 +68,7 @@ Or simply click: <a href="https://colab.research.google.com/github/rodare903009-
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Open faceswap.ipynb in Google Colab
+Open Deepfake.ipynb in Google Colab
 
 The notebook generates the face-swap manipulated images and their corresponding pixel-level masks used in the SegDeep dataset.
 
