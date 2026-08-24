@@ -43,15 +43,15 @@ python build_segdeep_dataset.py zip_file.zip ./output skip_images
 
 The face-swap generation process is provided as a Jupyter Notebook designed to run in Google Colab.
 
-Open directly in Google Colab:
+Open directly in Google Colab: 
 
-Or simply click:
+Or simply click: <a href="https://colab.research.google.com/github/rodare903009-maker/SegDeep-Code/blob/main/Faceswap.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 Open faceswap.ipynb in Google Colab
 
 The notebook generates the face-swap manipulated images and their corresponding pixel-level masks used in the SegDeep dataset.
-<a href="https://colab.research.google.com/github/rodare903009-maker/SegDeep-Code/blob/main/Faceswap.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+
 
 
