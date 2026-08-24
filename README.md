@@ -50,7 +50,7 @@ Or simply click:
 Open faceswap.ipynb in Google Colab
 
 The notebook generates the face-swap manipulated images and their corresponding pixel-level masks used in the SegDeep dataset.
-<a href="https://colab.research.google.com/github/rodar/SegDeep-Dataset/blob/main/faceswap.ipynb">
+<a href="https://colab.research.google.com/github/rodar/SegDeep-Dataset/blob/main/Faceswap.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
