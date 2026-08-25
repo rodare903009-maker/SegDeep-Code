@@ -1,3 +1,10 @@
+## License
+
+### Code
+
+The code provided in this repository is released under the **MIT License**, 
+except where otherwise noted.
+
 MIT License
 
 Copyright (c) 2026 rodare903009-maker
@@ -19,3 +26,47 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+### Dataset
+
+The **SegDeep Dataset** is released under the **Creative Commons Attribution
+4.0 International (CC BY 4.0)** license.
+
+Under this license, you are free to:
+
+- **Share** — copy and redistribute the material in any medium or format.
+- **Adapt** — remix, transform, and build upon the material for any purpose,
+  including commercial purposes.
+
+Under the following terms:
+
+- **Attribution** — appropriate credit must be given, a link to the license
+  must be provided, and any changes made to the material must be indicated.
+- **No additional restrictions** — you may not apply legal terms or
+  technological measures that legally restrict others from doing anything
+  the license permits.
+
+The complete SegDeep Dataset is available through **Zenodo**.
+
+### Third-Party Code and Data
+
+This repository may include or adapt code and resources from third-party
+projects. Such components remain subject to their respective licenses and
+copyright notices.
+
+Users are responsible for reviewing and complying with the applicable
+licenses and attribution requirements of third-party components.
+
+The SegDeep Dataset was constructed using source images derived from
+third-party datasets. The rights and licenses applicable to the original
+source material remain in effect.
+
+Please refer to the accompanying documentation and the original sources
+for additional information regarding third-party code, datasets, and
+licenses.
+
+For more information about the MIT License, see:
+https://opensource.org/license/mit/
+
+For more information about the CC BY 4.0 License, see:
+https://creativecommons.org/licenses/by/4.0/
