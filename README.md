@@ -79,6 +79,16 @@ The following examples show generated deepfake images and their corresponding pi
 | <img src="Deepfake/Images/32000.png" width="160"> | <img src="Deepfake/Masks/32000.png" width="160"> | <img src="Deepfake/Images/32001.png" width="160"> | <img src="Deepfake/Masks/32001.png" width="160"> |
 | <img src="Deepfake/Images/32002.png" width="160"> | <img src="Deepfake/Masks/32002.png" width="160"> | <img src="Deepfake/Images/32003.png" width="160"> | <img src="Deepfake/Masks/32003.png" width="160"> |
 
+## Source Dataset
+
+The SegDeep dataset uses images from the **Flickr-Faces-HQ (FFHQ)** dataset as source images for generating facial manipulations. FFHQ provides high-quality and diverse facial images, making it suitable for constructing a large-scale dataset for deepfake and face-swap segmentation.
+
+The original FFHQ dataset was introduced by Karras et al. in *A Style-Based Generator Architecture for Generative Adversarial Networks*.
+
+Source: [Karras et al., 2019](https://arxiv.org/abs/1812.04948)
+
+The original FFHQ images remain subject to their respective terms and licenses.
+
 
 
 
