@@ -85,7 +85,9 @@ The SegDeep dataset uses images from the **Flickr-Faces-HQ (FFHQ)** dataset as s
 
 The original FFHQ dataset was introduced by Karras et al. in *A Style-Based Generator Architecture for Generative Adversarial Networks*.
 
-Source: [Karras et al., 2019](https://arxiv.org/abs/1812.04948)
+Source: A Style-Based Generator Architecture for Generative Adversarial Networks
+Tero Karras (NVIDIA), Samuli Laine (NVIDIA), Timo Aila (NVIDIA)
+https://arxiv.org/abs/1812.04948
 
 The original FFHQ images remain subject to their respective terms and licenses.
 
